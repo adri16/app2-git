@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blast</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/bootstrap/</ImageTemplate>
+            <ImageTemplateName>Bootstrap</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Helvetica Neue</TemplateFont>
+            <TemplateName>bootstrap</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/galaxys5.png</url>
+                <title>galaxys5</title>
+                <filesize>57737</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/gamaAlta.png</url>
+                <title>gamaAlta</title>
+                <filesize>1665382</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/gamaBaja.png</url>
+                <title>gamaBaja</title>
+                <filesize>509072</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/gamaMedia.png</url>
+                <title>gamaMedia</title>
+                <filesize>976696</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/iphone6.png</url>
+                <title>iphone6</title>
+                <filesize>51095</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/LG.png</url>
+                <title>LG</title>
+                <filesize>241139</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/lg-x-max.png</url>
+                <title>lg-x-max</title>
+                <filesize>7145565</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/MOTO G.png</url>
+                <title>MOTO G</title>
+                <filesize>96041</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/moto-g4-plus-7.png</url>
+                <title>moto-g4-plus-7</title>
+                <filesize>401863</filesize>
+            </Image>
+            <Image>
+                <url>K:/DAM/2 PARCIAL/APLICACIONES/app2/imagenes/nokiaLumina620.png</url>
+                <title>nokiaLumina620</title>
+                <filesize>107138</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
